@@ -25,20 +25,6 @@ The content is inspired by an introductory NumPy tutorial video and rewritten as
 - Python 3.x
 - NumPy
 
-Install NumPy using pip:
-
-pip install numpy
-▶️ How to Run the Code
-Clone the repository:
-
-Copy code
-git clone https://github.com/your-username/learn-numpy.git
-cd learn-numpy
-Run any Python file:
-
-Copy code
-python filename.py
-
 
 👤 Author
 Ashraful
