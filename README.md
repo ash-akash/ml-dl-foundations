@@ -1,10 +1,3 @@
-Perfect — below is a **PhD-friendly, clean, and honest README** for your
-**`ml-dl-foundations`** repository.
-
-You can **copy–paste this directly** into `README.md`.
-
----
-
 # ML–DL Foundations
 
 This repository documents my structured progression from **numerical computing and data analysis** to **machine learning and deep learning**, with a strong emphasis on **understanding fundamentals, model behavior, and limitations**, rather than only achieving high performance.
